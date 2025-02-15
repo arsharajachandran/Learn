@@ -1,0 +1,12 @@
+#main-title{
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.main-para{
+    color: green;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
