@@ -1,12 +1,22 @@
-#main-title{
-    color: blue;
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
+#main-title {
+  color: blue;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  
 }
-.main-para{
-    color: green;
-    font-size: 18px;
-    font-weight: normal;
-    text-align: center;
+.main-para {
+  /* color: green; */
+  font-size: 18px;
+  font-weight: normal;
+  text-align: left;
+  margin: 10px;
+}
+.item {
+  border: 1px solid black;
+  margin: 10px; 
+  padding: 10px;
+}
+ul{
+    /* list-style-type: square; */
 }
