@@ -3,7 +3,6 @@
   font-size: 24px;
   font-weight: bold;
   text-align: center;
-  
 }
 .main-para {
   /* color: green; */
@@ -14,9 +13,32 @@
 }
 .item {
   border: 1px solid black;
-  margin: 10px; 
+  margin: 10px;
   padding: 10px;
 }
-ul{
-    /* list-style-type: square; */
+ul {
+  /* list-style-type: square; */
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  min-width: 300px;
+}
+
+.container {
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 3px;
+}
+.form-item {
+  padding: 10px;
+}
+input:valid{
+    border-color: green;
+}
+input:invalid{
+    border-color: red;
 }
